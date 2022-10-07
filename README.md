@@ -1,6 +1,2 @@
-# demo
-Demo for github 
-Basics of Github 
-Learning to create a repository
-HI
-some description
+#MICROSERVICES IN JAVA
+The main code and test code being written...
